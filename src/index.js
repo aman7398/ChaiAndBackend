@@ -4,8 +4,43 @@
 import connectDB from "./db/db.js";
 import dotenv from "dotenv";
 dotenv.config({ path: "../.env" });
-
 connectDB();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // import express from "express";
 
 // const app = express();
